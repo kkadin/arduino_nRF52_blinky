@@ -22,7 +22,7 @@
 #include <Adafruit_NeoPixel.h>
 
 // max concurrent connections supported by this example
-#define MAX_PRPH_CONNECTION 2
+#define MAX_PRPH_CONNECTION 3
 uint8_t connection_count = 0;
 
 /* Nordic Led-Button Service (LBS)
